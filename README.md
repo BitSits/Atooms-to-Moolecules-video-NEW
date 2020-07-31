@@ -1,3 +1,9 @@
 Atooms to Moolecules WP7
 ===
-[ ![](Screen%20Shot%202016-11-28%20at%202.40.02%20AM.png) ](https://youtu.be/Ddb_WVZlkZE)
+[![](W63ukWu7KMIOXSdQcT.gif)][video]
+
+[via GIPHY](https://giphy.com/gifs/W63ukWu7KMIOXSdQcT)
+
+[video]: https://youtu.be/Ddb_WVZlkZE
+
+[YouTube][video]
